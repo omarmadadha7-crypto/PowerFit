@@ -7,8 +7,7 @@
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-EF%20Core-CC2927?logo=microsoftsqlserver&logoColor=white)
 ![Tests](https://img.shields.io/badge/tests-xUnit-5E5E5E)
 
-<!-- TODO: add a Swagger screenshot (docs/swagger.png) and a Live Demo link if you deploy it -->
-<!-- ![Swagger UI](./docs/swagger.png) -->
+
 
 ## Overview
 
@@ -184,4 +183,4 @@ PowerFit/
 
 ## Author
 
-**Omar Madadha** · [GitHub](https://github.com/omarmadadha7-crypto) · [LinkedIn](#) · your.email@example.com
+**Omar Madadha** · [GitHub](https://github.com/omarmadadha7-crypto) · [LinkedIn](https://www.linkedin.com/in/omar-madadha-0731802b7/) · omarmadadha7@gmail.com
